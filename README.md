@@ -29,18 +29,18 @@ My name is Ömer Furkan Gençer and I'm a backend developer from Istanbul, Turke
 <a href="https://www.linkedin.com/in/omerfurkangencer/">
   <img
     alt="Linkedin"
-    src="https://img.shields.io/badge/linkedin-0077B5?logo=linkedin&logoColor=white&style=for-the-badge"
+    src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat-square"
   />
 </a>
 <a href="https://stackoverflow.com/users/11481231">
   <img
     alt="StackOverflow"
-    src="https://img.shields.io/badge/stackoverlow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge"
+    src="https://img.shields.io/badge/StackOverflow-FE7A16?logo=stack-overflow&logoColor=white&style=flat-square"
   />
 </a>
 <a href="https://www.instagram.com/omerfurkangencer/">
   <img
     alt="Instagram"
-    src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge"
+    src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=flat-square"
   />
 </a>
