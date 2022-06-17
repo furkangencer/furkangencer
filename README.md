@@ -1,6 +1,6 @@
 ### 🚀 About Me 
 
-I'm Ömer Furkan Gençer, backend developer from Istanbul, Turkey. I'm currently working at <a href="https://www.getir.com" target="_blank">Getir</a>.
+I'm Ömer Furkan Gençer, software engineer from Amsterdam, Netherlands. I'm currently working at <a href="https://www.silverflow.com" target="_blank">Silverflow</a>.
 
 ---
 
